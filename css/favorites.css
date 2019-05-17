@@ -1,0 +1,36 @@
+body {
+	background-image: url("../images/books4.jpg");
+}
+
+.column {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+  background-color:black; 
+  color:gold;
+}
+
+.column{
+	color:gold;
+}
+
+#back {
+	background-color: black;
+	margin-left: 1250px;
+  	color: white;
+  	padding: 15px 32px;
+  	
+  	font-size: 16px;
+  	text-align: right;
+}
+
+a {
+	color: gold;
+	font-size: 20px;
+}
+
+button {
+	background-color: black;
+	color: gold;
+}

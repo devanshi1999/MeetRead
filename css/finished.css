@@ -1,0 +1,41 @@
+body {
+	background-image: url("../images/books4.jpg");
+}
+
+.column {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+  background-color:black; 
+  color:LimeGreen;
+}
+
+.column{
+	color:LimeGreen;
+}
+
+#back {
+	background-color: black;
+	margin-left: 1250px;
+  	color: white;
+  	padding: 15px 32px;
+  	
+  	font-size: 16px;
+  	text-align: right;
+}
+
+a {
+	color: LimeGreen;
+	font-size: 20px;
+}
+
+button {
+	background-color: black;
+	color: LimeGreen;
+}
+h1 {
+  background-color:LimeGreen; 
+  color:black; 
+  text-align:center;
+}
